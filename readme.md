@@ -25,7 +25,7 @@ A RESTful API for personal expense management built with Django REST Framework, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/expense-tracker-api.git
+git clone https://github.com/pantacrazy/Expense-Tracker-API
 cd expense-tracker-api
 ```
 
